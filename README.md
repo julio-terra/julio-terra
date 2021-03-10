@@ -25,7 +25,6 @@
     <thead>
         <th>Frontend</th>
         <th>Backend</th>
-        <th>Devops</th>
     </thead>
     <tbody>
         <td valign="top" width="30%">
