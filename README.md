@@ -28,7 +28,7 @@
     </thead>
     <tbody>
         <td valign="top" width="30%">
-            <img src="./Images/Icons/Frontend/Html.svg" 
+            <img src="./Html.svg" 
             width="32"
             />
             <img src="./Images/Icons/Frontend/Css.svg" 
