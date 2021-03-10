@@ -15,7 +15,7 @@
     <h1>
     <img src="./Images/code.gif" 
     width="24"
-    /> My Skill Set <img src="./Images/code.gif" 
+    /> My Skill Set <img src="./code.gif" 
     width="24"
     />
     </h1>
