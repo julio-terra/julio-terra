@@ -31,22 +31,22 @@
             <img src="./Html.svg" 
             width="32"
             />
-            <img src="./Images/Icons/Frontend/Css.svg" 
+            <img src="./Css.svg" 
             width="32"
             />
-            <img src="./Images/Icons/Frontend/Javascript.svg" 
+            <img src="./Javascript.svg" 
             width="32"
             />
-            <img src="./Images/Icons/Frontend/React.svg" 
+            <img src="./React.svg" 
             width="32"
             />
-            <img src="./Images/Icons/Frontend/nextj.png" 
+            <img src="./nextj.png" 
             width="32"
             />
-            <img src="./Images/Icons/Frontend/Styled-components.png" 
+            <img src="./Styled-components.png" 
             width="32"
             >
-            <img src="./Images/Icons/Frontend/Figma.svg" 
+            <img src="./Figma.svg" 
             width="32"> 
         </td>
         <td valign="top" width="32%">
