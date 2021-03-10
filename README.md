@@ -1,4 +1,4 @@
-![hey there, i am júlio](./Images/Header.png)
+![hey there, i am júlio](./Header.png)
 # Currently, I am a web development intern at Promenant Innovation Labs
 ---
 - 🔭 I’m currently working with React.JS & Node.JS
