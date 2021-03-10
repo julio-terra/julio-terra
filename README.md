@@ -1,7 +1,7 @@
 ![hey there, i am júlio](./Images/Header.png)
 # Currently, I am a web development intern at Promenant Innovation Labs
 ---
-- 🔭 I’m currently working with Next.JS & Node.JS
+- 🔭 I’m currently working with React.JS & Node.JS
 -  🤝 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Learn more about backend development, help more peoples e survive this crazy virus!
 ---
