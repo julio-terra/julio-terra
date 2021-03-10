@@ -47,16 +47,13 @@
             width="32"> 
         </td>
         <td valign="top" width="32%">
-            <img src="./Images/Icons/Backend/Express.svg" 
+            <img src="./Express.svg" 
             width="32"
             />
-            <img src="./Images/Icons/Backend/MongoDB.svg" 
+            <img src="./MongoDB.svg" 
             width="32"
             />
-            <img src="./Images/Icons/Backend/Node.svg" 
-            width="32"
-            />
-            <img src="./Images/Icons/Git.svg" 
+            <img src="./Node.svg" 
             width="32"
             />
         </td>
