@@ -43,9 +43,6 @@
             <img src="./nextj.png" 
             width="32"
             />
-            <img src="./Styled-components.png" 
-            width="32"
-            >
             <img src="./Figma.svg" 
             width="32"> 
         </td>
