@@ -1,5 +1,5 @@
 hey there, i am júlio
-# desenvolvedor full stack
+# full stack developer
 ---
 - 🔭 I’m currently working with React.JS & Node.JS
 -  🤝 I’m looking to collaborate with other developers
