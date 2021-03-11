@@ -1,5 +1,5 @@
 hey there, i am júlio
-# Currently, I am a web development intern at Promenant Innovation Labs
+# desenvolvedor full stack
 ---
 - 🔭 I’m currently working with React.JS & Node.JS
 -  🤝 I’m looking to collaborate with other developers
