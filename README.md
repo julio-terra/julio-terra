@@ -1,9 +1,6 @@
 hey there, i am júlio
 # Full Stack Developer
 ---
-- 🔭 I’m currently working with React.JS & Node.JS
--  🤝 I’m looking to collaborate with other developers
----
 <div align="center">
     <img align="center" src="https://i.giphy.com/media/Sqlj82Xy4eZKSU9iVM/giphy.gif" alt="Resume" />
 </div >
