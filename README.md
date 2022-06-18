@@ -1,9 +1,8 @@
 hey there, i am júlio
-# full stack developer
+# Full Stack Developer
 ---
 - 🔭 I’m currently working with React.JS & Node.JS
 -  🤝 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Learn more about backend development, help more peoples e survive this crazy virus!
 ---
 <div align="center">
     <img align="center" src="https://i.giphy.com/media/Sqlj82Xy4eZKSU9iVM/giphy.gif" alt="Resume" />
